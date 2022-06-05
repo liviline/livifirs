@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f1d59cbd
 license: GPL-2.0
+name: livifirs
 type: industry
+url: https://github.com/liviline/livifirs
 version: 6
